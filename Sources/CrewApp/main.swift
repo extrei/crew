@@ -1,0 +1,3 @@
+import CrewUI
+
+CrewApplication.run()
